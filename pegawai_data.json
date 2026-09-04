@@ -1,0 +1,8 @@
+{
+  "_keterangan": "Peta dari NAMA FILE FOTO (tanpa ekstensi, lowercase) ke data pegawai.",
+  "_contoh_format": "Jika foto bernama damar_chesta.jpg, kunci-nya adalah damar_chesta",
+  "abi": {
+    "nama": "Abi",
+    "divisi": "Mekanik"
+  }
+}

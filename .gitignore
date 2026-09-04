@@ -1,0 +1,20 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# DeepFace cache
+*.pkl
+
+# Employee photos (Privacy)
+foto_pegawai/*
+!foto_pegawai/.gitkeep
+
+# Output / Temp
+bukti_pelanggaran.jpeg
+test_capture.jpg
